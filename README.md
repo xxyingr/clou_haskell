@@ -1,4 +1,4 @@
-# clou_haskell
+# cloud_haskell
 download use-haskell and install stack 
 but it install the latest version which has a conflict. I tried to change the stack.yaml.
 I changed the resolver to lit-2.22 and other extra-deps, but still bad problem.
